@@ -1,3 +1,8 @@
+#data folders
+detected_faces/*
+recordings/*
+reference/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
